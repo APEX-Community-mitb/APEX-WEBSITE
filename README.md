@@ -55,7 +55,7 @@
 
 ## About The Project
 
-This is the first time we have APEX in COMMUNITY. Hence we will be building our official website to showcase all that awesome stuff that APEX will be doing in future.
+This is the first time we have APEX COMMUNITY website. Hence we will be building our official website to showcase all that awesome stuff that APEX will be doing in future.
 This is a beginner friendly project and we hope to build an amazing website from scratch.
 
 ## Built With
