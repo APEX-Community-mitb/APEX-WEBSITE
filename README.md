@@ -8,7 +8,7 @@
 </p>
 
 ## Portfolio Website 🔗
-[**Visit Now**]()
+[**Visit Now**](https://apex-website-gules.vercel.app/)
 
 ## 🛠️ Tech Stack
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=html)&nbsp;
@@ -17,11 +17,11 @@
 [![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=javascript)&nbsp;
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=css)
 [![Firestore](https://img.shields.io/badge/Firestore-%23FFA500.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
-
-
-
+[![Vercel](https://img.shields.io/badge/Vercel-%23FF0000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## 🖼️ Sneak Peek of Pages
+<img src="./assets/1.png">
+<img src="./assets/2.png">
 
 ## 📬 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/arnabjena/)
@@ -55,8 +55,7 @@
 
 ## About The Project
 
-This is the first time we have APEX COMMUNITY website. Hence we will be building our official website to showcase all that awesome stuff that APEX will be doing in future.
-This is a beginner friendly project and we hope to build an amazing website from scratch.
+Introducing APEX's inaugural community website, designed for engagement and showcasing initiatives. Tailored to serve community members, collaborators, the platform will highlight projects, events, and key information. With a user-centric design adhering to APEX's brand identity, the website will employ a streamlined tech stack, leveraging Firebase for backend functionality. Collaboration opportunities will be extended to the community for content creation and development. The project will adhere to a clear timeline, ensuring timely delivery and continuous improvement through feedback loops. 
 
 ## Built With
 
@@ -74,14 +73,17 @@ The tech stack we will be using:
 ```
   ├── assets/
         ├──img/               contains all images (don't use caps or space in file name).
-        ├──ui/                contains ui's.
+        ├──font/              contains .ttf folder
         ├──logo(png,svg)      contains the logo in (png,svg).
-        ├──opengraph
   ├── css/
         ├──settings.css       all the default styling settings.
         ├──(all css files)    all other css files for pages.
   ├── js/
+        ├──index.js           all the scripts/functions for main page.
         ├──script.js          all the scripts/functions for website.
+        ├──register.js        all the scripts/functions for registation page.
+        ├──project.data.js    all the scripts/functions for project page.
+        ├──team2023.js        all the scripts/functions for team page.
   ├── pages/
         ├──(all pages)        all pages of website.
   ├── index.html              main page of the website.
@@ -115,12 +117,12 @@ Below are the steps to follow to contribute to this project:
 
 3. **Navigate to the project directory** 📁.
    ```shell
-   cd APEXjgec.github.io
+   cd APEX_Website.github.io
    ```
 
 4. **Add a reference(remote) to the original repository**.
    ```shell
-   git remote add upstream https://github.com/APEXjgec/APEXjgec.github.io.git
+   git remote add upstream https://github.com/APEX_Website/APEX_Website.github.io.git
    ```
 
 5. **Check the remotes for this repository**.
@@ -169,7 +171,7 @@ Below are the steps to follow to contribute to this project:
 
 ## Roadmap
 
-See the [open issues](https://github.com/APEXjgec) for a list of proposed features and known issues.
+See the [open issues](https://github.com/APEX_Website) for a list of proposed features and known issues.
 
 <!-- LICENSE -->
 
@@ -183,4 +185,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or concerns, feel free to email us at APEX@COMMUNITY.ac.in 📧.
 
-
+<p align="center">Made with ❤️ | Hosted on <a href="https://apex-website-gules.vercel.app/">Vercel</a></p>
